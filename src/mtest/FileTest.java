@@ -1,3 +1,5 @@
+package mtest;
+
 import java.io.*;
 
 public class FileTest {

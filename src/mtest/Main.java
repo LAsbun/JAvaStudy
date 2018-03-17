@@ -1,3 +1,4 @@
+package mtest;
 
 class A{
     static int a = 5;

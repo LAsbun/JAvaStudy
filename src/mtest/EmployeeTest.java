@@ -1,5 +1,4 @@
-import java.io.*;
-
+package mtest;
 
 
 public class EmployeeTest {

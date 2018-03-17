@@ -1,3 +1,5 @@
+package mtest;
+
 public class VariableTest {
 
 

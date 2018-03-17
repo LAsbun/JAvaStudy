@@ -1,3 +1,5 @@
+package mtest;
+
 public class PrimitiveTypeTest {
     public static void main(String[] args) {
         // byte

@@ -1,4 +1,4 @@
-/*
+package mtest;/*
 @author: sws
 @software: IntelliJ IDEA
 @file: DirectoryTest.java

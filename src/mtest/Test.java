@@ -1,4 +1,4 @@
-
+package mtest;
 
 abstract class Tbase {
 

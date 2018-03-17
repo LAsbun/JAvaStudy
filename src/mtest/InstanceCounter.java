@@ -1,3 +1,5 @@
+package mtest;
+
 public class InstanceCounter {
     private static int numInstances = 0;
 

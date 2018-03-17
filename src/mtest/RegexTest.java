@@ -1,3 +1,5 @@
+package mtest;
+
 import java.util.regex.*;
 
 public class RegexTest {
